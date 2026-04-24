@@ -1,0 +1,11 @@
+Student_Name,Age,Gender,Math,English,Chemistry,Biology,Physics,Total,Sci_total,Percentage,Grade
+Cass Jones,23,Female,61,71,93,74,98,397,265,79.4,C
+Alex Jones,22,Female,76,91,77,65,64,373,206,74.6,C
+John Jones,19,Female,96,93,52,86,56,383,194,76.6,C
+Cass Jones,21,Male,70,58,88,67,53,336,208,67.2,D
+Cass Wick,23,Female,74,63,99,58,75,369,232,73.8,C
+Alex Adams,23,Male,51,69,77,96,56,349,229,69.8,D
+John Wick,19,Female,93,57,96,84,63,393,243,78.60000000000001,C
+John Wick,21,Female,66,85,99,89,53,392,241,78.4,C
+Cass Wick,22,Male,51,55,91,53,78,328,222,65.60000000000001,D
+Blossom Jones,18,Female,67,75,93,83,59,377,235,75.4,C
